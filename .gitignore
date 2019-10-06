@@ -235,23 +235,23 @@ _Pvt_Extensions
 
 ## React
 # dependencies
-/node_modules
-/.pnp
-.pnp.js
+ClientApp/node_modules
+ClientApp/.pnp
+ClientApp/.pnp.js
 
 # testing
-/coverage
+ClientApp/coverage
 
 # production
-/build
+ClientApp/build
 
 # misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+ClientApp/.DS_Store
+ClientApp/.env.local
+ClientApp/.env.development.local
+ClientApp/.env.test.local
+ClientApp/.env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+ClientApp/npm-debug.log*
+ClientApp/yarn-debug.log*
+ClientApp/yarn-error.log*
