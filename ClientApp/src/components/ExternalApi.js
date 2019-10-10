@@ -8,8 +8,7 @@ const ExternalApi = () => {
     const {
         isAuthenticated,
         logout,
-        loginWithRedirect,
-        getTokenSilently
+        loginWithRedirect
     } = useAuth0();
     const logoutWithRedirect = () => {
         localStorage.removeItem('token');
@@ -43,10 +42,10 @@ const ExternalApi = () => {
         <>
             <Profile />
             <h1>External API</h1>
-            {!localStorage.getItem('token') && (
+            {!isAuthenticated && (
                 <button onClick={() => loginWithRedirect({})}>Login</button>
             )}
-            {localStorage.getItem('token') && (
+            {isAuthenticated && (
                 <button onClick={() => logoutWithRedirect()}>Logout</button>
             )}
             <button onClick={callApi}>Ping API</button>
