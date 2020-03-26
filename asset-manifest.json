@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/Highland/static/js/main.7e19bc39.chunk.js",
+    "main.js.map": "/Highland/static/js/main.7e19bc39.chunk.js.map",
+    "runtime-main.js": "/Highland/static/js/runtime-main.32c2afa8.js",
+    "runtime-main.js.map": "/Highland/static/js/runtime-main.32c2afa8.js.map",
+    "static/css/2.11b452ed.chunk.css": "/Highland/static/css/2.11b452ed.chunk.css",
+    "static/js/2.64b934df.chunk.js": "/Highland/static/js/2.64b934df.chunk.js",
+    "static/js/2.64b934df.chunk.js.map": "/Highland/static/js/2.64b934df.chunk.js.map",
+    "index.html": "/Highland/index.html",
+    "precache-manifest.fa93ee0328c72a618c657c0357bbd9ae.js": "/Highland/precache-manifest.fa93ee0328c72a618c657c0357bbd9ae.js",
+    "service-worker.js": "/Highland/service-worker.js",
+    "static/css/2.11b452ed.chunk.css.map": "/Highland/static/css/2.11b452ed.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32c2afa8.js",
+    "static/css/2.11b452ed.chunk.css",
+    "static/js/2.64b934df.chunk.js",
+    "static/js/main.7e19bc39.chunk.js"
+  ]
+}
