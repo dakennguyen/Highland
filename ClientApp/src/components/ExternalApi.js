@@ -14,7 +14,7 @@ const ExternalApi = () => {
         localStorage.removeItem('token');
         localStorage.setItem('isAuthen', false);
         logout({
-            returnTo: window.location.origin
+            returnTo: window.location.origin + "/Highland"
         });
     }
 
