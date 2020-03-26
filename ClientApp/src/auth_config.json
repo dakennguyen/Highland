@@ -1,5 +1,5 @@
 {
-  "domain": "highland.eu.auth0.com",
-  "clientId": "xDqcMGJwPeLg7pbQdLHldfX7Z7hWvEW9",
-  "audience": "https://highland.eu.auth0.com/api/v2/"
+  "domain": "khoa-test.eu.auth0.com",
+  "clientId": "G98AUlFXKqTGjnc0dfdL9rKhUjr5b9Lf",
+  "audience": "https://khoa-test.eu.auth0.com/api/v2/"
 }
