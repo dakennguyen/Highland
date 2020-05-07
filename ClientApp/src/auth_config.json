@@ -1,5 +1,5 @@
 {
-  "domain": "khoa-test.eu.auth0.com",
-  "clientId": "G98AUlFXKqTGjnc0dfdL9rKhUjr5b9Lf",
-  "audience": "https://khoa-test.eu.auth0.com/api/v2/"
+  "domain": "pcs-dev.eu.auth0.com",
+  "clientId": "jpZHnKMFHCQJfKDfRT8lQFU4Ncw0z5wy",
+  "audience": "https://dbs-pcs-api-dev.azurewebsites.net"
 }
