@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "61e1e9de6f98bb35c79cb1a0059340d9",
+    "revision": "98255d9103a09944ad3771a3fda7abbc",
     "url": "/Highland/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Highland/static/js/2.64b934df.chunk.js"
   },
   {
-    "revision": "f13640d81c26af31633a",
-    "url": "/Highland/static/js/main.ffcd9a59.chunk.js"
+    "revision": "cbfb1f29e2cdbe0e235a",
+    "url": "/Highland/static/js/main.41fabb1b.chunk.js"
   },
   {
     "revision": "7853eb9d474540d852a9",
