@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "@auth0/auth0-spa-js": "^1.2.4",
-    "highlight.js": "^9.15.10",
+    "highlight.js": "^10.4.1",
     "jwt-decode": "^2.2.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
